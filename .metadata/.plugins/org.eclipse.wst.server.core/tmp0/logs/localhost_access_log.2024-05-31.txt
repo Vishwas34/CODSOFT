@@ -1,0 +1,10 @@
+127.0.0.1 - - [31/May/2024:12:24:38 +0530] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [31/May/2024:12:24:39 +0530] "GET /StudentManagementSystem/index.jsp HTTP/1.1" 500 3976
+0:0:0:0:0:0:0:1 - - [31/May/2024:12:24:40 +0530] "GET /favicon.ico HTTP/1.1" 404 1014
+127.0.0.1 - - [31/May/2024:12:27:58 +0530] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [31/May/2024:12:27:59 +0530] "GET /StudentManagementSystem/index.jsp HTTP/1.1" 500 2783
+0:0:0:0:0:0:0:1 - - [31/May/2024:12:27:59 +0530] "GET /favicon.ico HTTP/1.1" 404 1014
+0:0:0:0:0:0:0:1 - - [31/May/2024:12:30:28 +0530] "GET /StudentManagementSystem/index.jsp HTTP/1.1" 500 2783
+0:0:0:0:0:0:0:1 - - [31/May/2024:12:36:41 +0530] "GET /StudentManagementSystem/index.jsp HTTP/1.1" 500 2783
+0:0:0:0:0:0:0:1 - - [31/May/2024:12:41:39 +0530] "GET /StudentManagementSystem/navbar.jsp HTTP/1.1" 200 731
+0:0:0:0:0:0:0:1 - - [31/May/2024:12:41:45 +0530] "GET /StudentManagementSystem/index.jsp HTTP/1.1" 500 2783
